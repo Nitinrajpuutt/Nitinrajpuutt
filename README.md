@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Nitinrajpuutt
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Tableau
-- 💞️ I’m looking to collaborate on Data Analytics 
+
 - 📫 How to reach me on linkedin http://linkedin.com/in/nitin-kumar-4816a7217
 
 <!---
